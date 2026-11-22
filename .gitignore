@@ -1,0 +1,6 @@
+evals/
+assets/
+video/
+.DS_Store
+__pycache__/
+*.pyc
